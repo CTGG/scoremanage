@@ -21,7 +21,7 @@ public class Teacher {
 		
 	}
 	
-	
+	// 吴：反正java本身就是很繁琐的语言，就把必要把dent省了吧，addStudent不算长了，真有太长的才考虑简写
 	public void addStu(String id){
 		System.out.println("Please input id,name,course and seperate them with space");
 		

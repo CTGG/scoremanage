@@ -29,6 +29,7 @@ public class Graduate extends Student implements Serializable{
 		
 	}
 	
+	// 吴：交互不在这里啦
 	public void startGra(){
 		System.out.println("Please choose your operations:");
 		System.out.println("1:Reset  password");
